@@ -13,9 +13,10 @@ Responsive Design: Optimized for various screen sizes and devices.
 Custom Assets: Utilizes unique sprites and map configurations for enhanced visuals.
 
 Lightweight: Fast loading times with a streamlined codebase.
----
+
 
 📁 Project Structure
+---
 ```
 MINE-PLAY/
 ├── index.html             # Main HTML file
