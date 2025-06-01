@@ -1,4 +1,5 @@
-MINE-PLAY
+<h1>MINE-PLAY</h1>
+
 MINE-PLAY is a browser-based interactive game inspired by the classic Minesweeper. Built entirely with HTML and JavaScript, it offers a minimalist design and responsive gameplay.
 
 🌐 Live Demo
@@ -12,6 +13,7 @@ Responsive Design: Optimized for various screen sizes and devices.
 Custom Assets: Utilizes unique sprites and map configurations for enhanced visuals.
 
 Lightweight: Fast loading times with a streamlined codebase.
+---
 
 📁 Project Structure
 ```
