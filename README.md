@@ -1,4 +1,4 @@
-<h1>MINE-PLAY</h1>
+<h1>PIXEL 2D</h1>
 
 MINE-PLAY is a browser-based interactive game inspired by the classic Minesweeper. Built entirely with HTML and JavaScript, it offers a minimalist design and responsive gameplay.
 
